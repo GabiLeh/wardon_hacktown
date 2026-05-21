@@ -25,4 +25,4 @@ O uso descontrolado do celular dentro da sala de aula pode causar:
 * Dificuldade na aplicação das regras escolares.
 
   
-Estudos indicam que 80% dos estudantes tiveram maior concentração nas aulas após a implementação dessas diretrizes, houve também um aumento na comunicação interpessoal, na absorção de conteúdo e na saúde mental.
+```Estudos indicam que 80% dos estudantes tiveram maior concentração nas aulas após a implementação dessas diretrizes, houve também um aumento na comunicação interpessoal, na absorção de conteúdo e na saúde mental.```
