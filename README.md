@@ -7,3 +7,15 @@ O aluno deverá escanear um QR pré-definido pelo Wardon localizado no ármario,
 
 ## 📈Impactos a longo prazo
 À longo prazo, o uso de celular será reduzido ao nulo, pois, guardando os aparelhos e alertando quais alunos violaram os armários, poderemos controlar o uso de celulares totalmente.
+
+## 📵Problemática do celular
+O uso descontrolado do celular dentro da sala de aula pode causar:
+* Distração;
+* Perda de foco;
+* Redução do rendimento escolar;
+* Conflitos em sala;
+* Problemas de convivência;
+* Uso indevido de redes sociais;
+* Gravações não autorizadas;
+* Dificuldade na aplicação das regras escolares.
+Estudos indicam que 80% dos estudantes tiveram maior concentração nas aulas após a implementação dessas diretrizes, houve também um aumento na comunicação interpessoal, na absorção de conteúdo e na saúde mental.
